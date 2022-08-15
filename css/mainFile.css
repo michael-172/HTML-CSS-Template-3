@@ -287,6 +287,7 @@ ul{
         height: 40px;
     }
     .header ul.main-nav {
+        padding: 0;
         margin: auto;
     }
     .header .main-nav > li > a
